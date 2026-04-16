@@ -15,7 +15,7 @@ https://homerow.app.
 
 ## Download
 
-Download Homerow and view the changelog [here](https://homerow.app/download/).
+Download Homerow and view the changelog [here](https://homerow.app/changelog/).
 
 Requires macOS 12.3 or later.
 
